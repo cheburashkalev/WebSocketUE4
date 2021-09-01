@@ -1,0 +1,419 @@
+C:/Users/duxan/Documents/GitHub/CryptoHero_Land/public/RemakeOnUE4/CryptoHeroes2/Plugins/WebSocket/Source/WebSocket/Private/WebSocket.cpp
+C:/Users/duxan/Documents/GitHub/CryptoHero_Land/public/RemakeOnUE4/CryptoHeroes2/Plugins/WebSocket/Source/WebSocket/Private/WebSocketBase.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\iostream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\istream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\ostream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\ios
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xlocnum
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\climits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\cmath
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\iterator
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\cstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xutility
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\utility
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\streambuf
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xiosbase
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\share.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\system_error
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\__msvc_system_error_abi.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\cerrno
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\stdexcept
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\isa_availability.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xatomic.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xcall_once.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xerrc.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\atomic
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xthreads.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xtimec.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\ctime
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\time.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xlocale
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\memory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\typeinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\vcruntime_typeinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xfacet
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xlocinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xlocinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\cctype
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\clocale
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\locale.h
+C:\Users\duxan\Documents\GitHub\CryptoHero_Land\public\RemakeOnUE4\CryptoHeroes2\Plugins\WebSocket\Source\WebSocket\Public\WebSocketBase.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Components/ActorComponent.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\CoreMinimal.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Templates/IntegralConstant.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Templates/IsClass.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/Compression.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/FrameNumber.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/Parse.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/Color.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/ColorList.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/IntVector.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/Vector2D.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/IntRect.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/ByteSwap.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Internationalization/CulturePointer.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Internationalization/TextLocalizationManager.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Containers/ArrayView.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Internationalization/TextKey.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Internationalization/LocTesting.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Internationalization/LocKeyFuncs.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Internationalization/LocalizedTextSourceTypes.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Internationalization/Text.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Internationalization/StringTableCoreFwd.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Internationalization/ITextData.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Internationalization/Internationalization.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/Vector.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/Axis.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/Vector4.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/VectorRegister.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/UnrealMathSSE.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/sse_mathfun.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/UnrealMathVectorConstants.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/UnrealMathVectorCommon.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/TwoVectors.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/Edge.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\UObject/ObjectVersion.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\UObject/PendingVersions.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/Plane.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/Sphere.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/CapsuleShape.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/Rotator.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/DateTime.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/RangeBound.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/AutomationEvent.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/Guid.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Hash/CityHash.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/Range.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/RangeSet.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/Box.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/Box2D.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/BoxSphereBounds.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/OrientedBox.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/Matrix.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/Matrix.inl
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/RotationTranslationMatrix.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/RotationAboutPointMatrix.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/ScaleRotationTranslationMatrix.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/RotationMatrix.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/Quat.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/PerspectiveMatrix.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/OrthoMatrix.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/TranslationMatrix.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/QuatRotationTranslationMatrix.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/InverseRotationMatrix.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/ScaleMatrix.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/MirrorMatrix.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/ClipProjectionMatrix.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/InterpCurvePoint.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/InterpCurve.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/CurveEdInterface.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/Float32.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/Float16.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/Float16Color.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/Vector2DHalf.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/Transform.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/ScalarRegister.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/TransformVectorized.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/TransformNonVectorized.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/ConvexHull2d.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/UnrealMath.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/Ray.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectMacros.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/Script.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Stats/Stats.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\HAL/PlatformTime.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformTime.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformTime.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Stats\StatsCommon.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Stats/Stats2.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\HAL/LowLevelMemTracker.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/ScopeLock.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Containers/LockFreeList.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/NoopCounter.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\HAL/PlatformProcess.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformProcess.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformProcess.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Containers/ChunkedArray.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Containers/IndirectArray.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\ProfilingDebugging/MiscTrace.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Stats\StatsTrace.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectGlobals.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/PrimaryAssetId.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/StringBuilder.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Containers/StringView.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Containers\StringView.inl
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/LinkerInstancingContext.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceRedirector.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveUObject.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/Object.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectBaseUtility.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectBase.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectArray.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectMarks.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ResourceSize.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\Templates/SubclassOf.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/Class.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Concepts/GetTypeHashable.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/RandomStream.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/FallbackStruct.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/ScopeRWLock.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreNative.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/GarbageCollection.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\HAL/ThreadSafeBool.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/FastReferenceCollectorOptions.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/ReflectedTypeAccessors.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/FieldPath.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/Field.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Templates/HasGetTypeHash.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/WeakObjectPtr.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreNet.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Serialization/BitReader.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Serialization/BitArchive.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\HAL/IConsoleManager.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Features/IModularFeature.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Serialization/BitWriter.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/NetworkGuid.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreNetTypes.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/SoftObjectPath.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/EngineTypes.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/NetSerialization.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Engine\Public\EngineLogs.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Engine\Public\Net/GuidReferences.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NetSerialization.generated.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptMacros.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptInterface.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\Templates/Casts.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/UnrealType.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Containers/List.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\Serialization/SerializedPropertyScope.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Serialization/MemoryImage.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/SecureHash.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Async/AsyncWork.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\HAL/Event.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/IQueuedWork.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/QueuedThreadPool.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformAffinity.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Serialization/BufferReader.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\String/BytesToHex.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\String/HexToBytes.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Templates/RefCounting.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Templates/Greater.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/LazyObjectPtr.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/PersistentObjectPtr.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\UObject/PropertyPortFlags.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyTag.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/SoftObjectPtr.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/SparseDelegate.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/UndefineUPropertyMacros.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/DefineUPropertyMacros.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/Stack.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/EnumProperty.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/FieldPathProperty.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\EngineTypes.generated.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/EngineBaseTypes.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Async/TaskGraphInterfaces.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Containers/LockFreeFixedSizeAllocator.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/MemStack.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\EngineBaseTypes.generated.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Engine\Classes\EdGraph/EdGraphPin.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Engine\Classes\EdGraph/EdGraphNode.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\EdGraphNode.generated.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\EdGraphPin.generated.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Interfaces/Interface_AssetUserData.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/Interface.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Interface_AssetUserData.generated.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectAnnotation.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/StructOnScope.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/Package.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/PackageId.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/LinkerSave.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Serialization/FileRegions.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\PixelFormat.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectResource.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/Linker.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Internationalization/GatherableTextData.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Internationalization/InternationalizationMetadata.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/PackageFileSummary.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Serialization/CustomVersion.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/EngineVersion.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/SavePackage.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectThreadContext.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\Misc/WorldCompositionUtility.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceError.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/ObjectThumbnail.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Async/Future.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Engine\Public\ComponentInstanceDataCache.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ComponentInstanceDataCache.generated.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ActorComponent.generated.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Net\Core\Public\Net/Core/PushModel/PushModelMacros.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Templates/ValueOrError.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/TVariant.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc\TVariantMeta.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/AssetBundleData.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/AssetData.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectRedirector.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\Misc/PackageName.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/LinkerLoad.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/AssetDataTagMap.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Containers/SortedMap.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject\../../../ApplicationCore/Public/GenericPlatform/ICursor.h
+C:\Users\duxan\Documents\GitHub\CryptoHero_Land\public\RemakeOnUE4\CryptoHeroes2\Plugins\WebSocket\Intermediate\Build\Win64\UE4Editor\Inc\WebSocket\WebSocketBase.generated.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+C:\Users\duxan\Documents\GitHub\CryptoHero_Land\public\RemakeOnUE4\CryptoHeroes2\Plugins\WebSocket\Source\WebSocket\ThirdParty\include\Win64\libwebsockets.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\cstdarg
+C:\Users\duxan\Documents\GitHub\CryptoHero_Land\public\RemakeOnUE4\CryptoHeroes2\Plugins\WebSocket\Source\WebSocket\ThirdParty\include\Win64\lws_config.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winsock2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\sdkddkver.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\apiquery2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\fileapifromapp.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wincontypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\consoleapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\consoleapi3.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winsvc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\mcx.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\ime_cmodes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\ws2def.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\inaddr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\qos.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\ws2tcpip.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\ws2ipdef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\in6addr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\fcntl.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+C:/Users/duxan/Documents/GitHub/CryptoHero_Land/public/RemakeOnUE4/CryptoHeroes2/Plugins/WebSocket/Source/WebSocket/Private/WebSocketBlueprintLibrary.cpp
+C:\Users\duxan\Documents\GitHub\CryptoHero_Land\public\RemakeOnUE4\CryptoHeroes2\Plugins\WebSocket\Source\WebSocket\Public\WebSocketBlueprintLibrary.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Kismet/BlueprintFunctionLibrary.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BlueprintFunctionLibrary.generated.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime/Json/Public/Dom/JsonObject.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Json\Public\JsonGlobals.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Json\Public\Dom/JsonValue.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime/JsonUtilities/Public/JsonObjectConverter.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Json\Public\Serialization/JsonReader.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Json\Public\Serialization/JsonSerializer.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Json\Public\Policies/PrettyJsonPrintPolicy.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Json\Public\Policies/JsonPrintPolicy.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Serialization/MemoryWriter.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Serialization/MemoryArchive.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\JsonUtilities\Public\JsonObjectWrapper.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\JsonUtilities\JsonObjectWrapper.generated.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Internationalization/Culture.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/TextProperty.h
+C:\Users\duxan\Documents\GitHub\CryptoHero_Land\public\RemakeOnUE4\CryptoHeroes2\Plugins\WebSocket\Intermediate\Build\Win64\UE4Editor\Inc\WebSocket\WebSocketBlueprintLibrary.generated.h
+C:\Users\duxan\Documents\GitHub\CryptoHero_Land\public\RemakeOnUE4\CryptoHeroes2\Plugins\WebSocket\Source\WebSocket\Private\WebSocketContext.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Engine\Public\Tickable.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+C:\Users\duxan\Documents\GitHub\CryptoHero_Land\public\RemakeOnUE4\CryptoHeroes2\Plugins\WebSocket\Intermediate\Build\Win64\UE4Editor\Inc\WebSocket\WebSocketContext.generated.h
+C:\Users\duxan\Documents\GitHub\UnrealEngine\Engine\Source\Runtime/Launch/Resources/Version.h
+C:/Users/duxan/Documents/GitHub/CryptoHero_Land/public/RemakeOnUE4/CryptoHeroes2/Plugins/WebSocket/Source/WebSocket/Private/WebSocketCA.cpp
