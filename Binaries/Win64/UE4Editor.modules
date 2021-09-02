@@ -1,7 +1,7 @@
 {
-	"BuildId": "8899c39f-dbbc-4857-b706-cb8e2b5c132b",
+	"BuildId": "fc0dfff9-e349-4c49-abd1-55fe981df8f5",
 	"Modules": 
 	{
-		"WebSocket": "UE4Editor-WebSocket-0001.dll"
+		"WebSocket": "UE4Editor-WebSocket.dll"
 	}
 }

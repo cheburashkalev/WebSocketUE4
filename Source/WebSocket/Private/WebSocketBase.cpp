@@ -18,10 +18,10 @@
 *  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
 *  MA  02110-1301  USA
 */
-
+#include "WebSocketBase.h"
 #include "WebSocket.h"
 #include <iostream>
-#include "WebSocketBase.h"
+
 
 #if PLATFORM_UWP
 #elif PLATFORM_HTML5

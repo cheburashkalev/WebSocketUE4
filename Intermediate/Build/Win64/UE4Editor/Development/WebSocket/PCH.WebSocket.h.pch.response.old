@@ -235,7 +235,6 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\JsonUtilities
 /I Runtime\JsonUtilities\Public
 /I ThirdParty\zlib\v1.2.8\include\Win64\VS2015
-/I ThirdParty\OpenSSL\1.1.1\include\Win64\VS2015
 /I C:\Users\duxan\Documents\GitHub\CryptoHero_Land\public\RemakeOnUE4\CryptoHeroes2\Plugins\WebSocket\Intermediate\Build\Win64\UE4Editor\Inc\WebSocket
 /I C:\Users\duxan\Documents\GitHub\CryptoHero_Land\public\RemakeOnUE4\CryptoHeroes2\Plugins\WebSocket\Source
 /I C:\Users\duxan\Documents\GitHub\CryptoHero_Land\public\RemakeOnUE4\CryptoHeroes2\Plugins\WebSocket\Source\WebSocket\Public
@@ -268,11 +267,11 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\Users\duxan\Documents\GitHub\CryptoHero_Land\public\RemakeOnUE4\CryptoHeroes2\Plugins\WebSocket\Intermediate\Build\Win64\UE4Editor\Development\WebSocket\PCH.WebSocket.h"
-/Yu"C:\Users\duxan\Documents\GitHub\CryptoHero_Land\public\RemakeOnUE4\CryptoHeroes2\Plugins\WebSocket\Intermediate\Build\Win64\UE4Editor\Development\WebSocket\PCH.WebSocket.h"
+/I C:\Users\duxan\Documents\GitHub\CryptoHero_Land\public\RemakeOnUE4\CryptoHeroes2\Plugins\WebSocket\Intermediate\Build\Win64\UE4Editor\Development\WebSocket
+/Yc"C:\Users\duxan\Documents\GitHub\CryptoHero_Land\public\RemakeOnUE4\CryptoHeroes2\Plugins\WebSocket\Intermediate\Build\Win64\UE4Editor\Development\WebSocket\PCH.WebSocket.h"
 /Fp"C:\Users\duxan\Documents\GitHub\CryptoHero_Land\public\RemakeOnUE4\CryptoHeroes2\Plugins\WebSocket\Intermediate\Build\Win64\UE4Editor\Development\WebSocket\PCH.WebSocket.h.pch"
-"C:\Users\duxan\Documents\GitHub\CryptoHero_Land\public\RemakeOnUE4\CryptoHeroes2\Plugins\WebSocket\Intermediate\Build\Win64\UE4Editor\Development\WebSocket\Module.WebSocket.gen.cpp"
-/Fo"C:\Users\duxan\Documents\GitHub\CryptoHero_Land\public\RemakeOnUE4\CryptoHeroes2\Plugins\WebSocket\Intermediate\Build\Win64\UE4Editor\Development\WebSocket\Module.WebSocket.gen.cpp.obj"
+"C:\Users\duxan\Documents\GitHub\CryptoHero_Land\public\RemakeOnUE4\CryptoHeroes2\Plugins\WebSocket\Intermediate\Build\Win64\UE4Editor\Development\WebSocket\PCH.WebSocket.cpp"
+/Fo"C:\Users\duxan\Documents\GitHub\CryptoHero_Land\public\RemakeOnUE4\CryptoHeroes2\Plugins\WebSocket\Intermediate\Build\Win64\UE4Editor\Development\WebSocket\PCH.WebSocket.h.obj"
 /TP
 /GR-
 /W4

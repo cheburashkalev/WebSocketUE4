@@ -92,19 +92,58 @@ public class WebSocket : ModuleRules
             {
                 PrivateDependencyModuleNames.Add("OpenSSL");
             }
-
+ PrivateDependencyModuleNames.Add("OpenSSL");
             PrivateIncludePaths.Add("WebSocket/ThirdParty/include/Win64");
             var thirdPartyDir = Path.GetFullPath(Path.Combine(ModuleDirectory, "ThirdParty/"));
             string strStaticPath = Path.GetFullPath(Path.Combine(thirdPartyDir, "lib/Win64/"));
             PublicLibraryPaths.Add(strStaticPath);
-
-                    PublicAdditionalLibraries.Add(Path.GetFullPath(Path.Combine(strStaticPath,"websockets_game_static422.lib")));
+ PublicAdditionalLibraries.Add(Path.GetFullPath(Path.Combine(strStaticPath,"websockets_game_static422.lib")));
                
             
 
             
         }
         if (Target.Platform == UnrealTargetPlatform.Win32)
+        {
+            PublicDefinitions.Add("PLATFORM_UWP=0");
+            PrivateDependencyModuleNames.Add("zlib");
+            PrivateDependencyModuleNames.Add("OpenSSL");
+            PrivateIncludePaths.Add("WebSocket/ThirdParty/include/Win32");
+
+            string strStaticPath = Path.GetFullPath(Path.Combine(ModulePath, "ThirdParty/lib/Win32/"));
+            PublicLibraryPaths.Add(strStaticPath);
+
+            // 4.22 and 4.21
+            if (EngineMinorVersion == "21" || EngineMinorVersion == "20")
+            {
+                string[] StaticLibrariesX32 = new string[] {
+                    "websockets_static.lib",
+                    //"libcrypto.lib",
+                    //"libssl.lib",
+                };
+
+                foreach (string Lib in StaticLibrariesX32)
+                {
+                    PublicAdditionalLibraries.Add(Lib);
+                }
+            }
+            /*else if(EngineMinorVersion == "22"|| EngineMinorVersion == "23")*/
+            else
+            {
+                string[] StaticLibrariesX32 = new string[] {
+                    "websockets_static422.lib",
+                    //"libcrypto.lib",
+                    //"libssl.lib",
+                };
+
+                foreach (string Lib in StaticLibrariesX32)
+                {
+                    PublicAdditionalLibraries.Add(Lib);
+                }
+            }
+        }
+        
+        if (Target.Platform == UnrealTargetPlatform.Win64)
         {
             PublicDefinitions.Add("PLATFORM_UWP=0");
             PrivateDependencyModuleNames.Add("zlib");

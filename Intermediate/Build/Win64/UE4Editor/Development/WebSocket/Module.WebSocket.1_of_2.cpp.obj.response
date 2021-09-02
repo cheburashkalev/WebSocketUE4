@@ -235,6 +235,7 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\JsonUtilities
 /I Runtime\JsonUtilities\Public
 /I ThirdParty\zlib\v1.2.8\include\Win64\VS2015
+/I ThirdParty\OpenSSL\1.1.1\include\Win64\VS2015
 /I C:\Users\duxan\Documents\GitHub\CryptoHero_Land\public\RemakeOnUE4\CryptoHeroes2\Plugins\WebSocket\Intermediate\Build\Win64\UE4Editor\Inc\WebSocket
 /I C:\Users\duxan\Documents\GitHub\CryptoHero_Land\public\RemakeOnUE4\CryptoHeroes2\Plugins\WebSocket\Source
 /I C:\Users\duxan\Documents\GitHub\CryptoHero_Land\public\RemakeOnUE4\CryptoHeroes2\Plugins\WebSocket\Source\WebSocket\Public
